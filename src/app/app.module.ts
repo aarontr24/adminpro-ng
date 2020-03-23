@@ -28,7 +28,7 @@ import { ServiceModule } from './services/service.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    PagesModule,
+    // PagesModule,
     FormsModule,
     ReactiveFormsModule,
     ServiceModule
